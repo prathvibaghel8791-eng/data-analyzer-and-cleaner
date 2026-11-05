@@ -1,1 +1,1 @@
-# my-daily-activity-data
+# data analyser and cleaner
